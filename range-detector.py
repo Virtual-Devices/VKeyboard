@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-# USAGE: You need to specify a filter and "only one" image source
-#
-# (python) range-detector --filter RGB --image /path/to/image.png
-# or
-# (python) range-detector --filter HSV --webcam
 
 import cv2
 import argparse
